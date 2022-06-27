@@ -1,4 +1,4 @@
 # DIO
 # Introdução ao REACT-NATIVE!
 
-![image](https://user-images.githubusercontent.com/107360634/176058459-1f01a631-4fb3-4c4d-b4fb-acfee2c7de61.png)
+![image](https://user-images.githubusercontent.com/107360634/176058789-ab057ec0-5d85-44e2-a0ec-75acfb5e691a.png)
